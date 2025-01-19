@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到余卓阳博士的个人主页!"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
