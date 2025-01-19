@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "余卓阳   PUMC&Changping Lab"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 Welcome to Dr. Yu Zhuoyang's personal homepage!
-
-
-# 余卓阳   PUMC&Changping Lab
 
 ## 个人介绍：
 2017-2020         河北衡水中学         高中  
